@@ -1,0 +1,23 @@
+corpo {{
+ Margem: 0;Margem: 0;
+ alta: 100vh;alta: 100vh;
+ exigência: flexível;exigência: flexível;
+ justificar-conteúdo: centro;justificar-conteúdo: centro;
+ alinhar itens: centro;centro;
+ fundo: branco;fundo: branco;
+ família de fontes: Arial;Arial;
+ transição: fundo 0,15s;transição: fundo 0,15s;
+}
+
+botão {{
+ pré-enchimento: 20px;pré-enchimento: 20px;
+ tamanho da fonte: 18px;px;
+ raio da borda: 15px;px;
+ fronteira: Nenhuma;fronteira: Nenhuma;
+ fundo: #6ED6E0;fundo: #6ED6E0;
+ cor: branco;cor: branco;
+}
+
+. . . . . flash {
+ fundo: #dffbff !importanteeeeee;fundo: #dffbff !importanteeeee;
+}
